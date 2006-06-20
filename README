@@ -4,15 +4,15 @@ Xorg cursor themes
 
 Build requirements:
 (besides corresponding devel packages)
-  cygwin-1.5.19-4
-  cygport-0.1.6-1
+  cygwin-1.5.20-1
+  cygport-0.2.2-1
   gawk-3.1.5-2
   make-3.80-1
   pkg-config-0.20-1
-  sed-4.1.4-1
+  sed-4.1.5-1
   libXcursor-1.1.5.2-1
   xcursorgen-1.0.0-1
-  xorg-util-macros-1.0.1-1
+  xorg-util-macros-1.0.2-1
 
 Canonical website:
   http://xorg.freedesktop.org/
