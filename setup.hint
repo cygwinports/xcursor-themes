@@ -1,3 +1,4 @@
 category: X11
+requires:
 sdesc: "X.Org cursor themes"
 ldesc: "X.Org cursor themes"
