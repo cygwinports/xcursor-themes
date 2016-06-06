@@ -6,3 +6,5 @@ RELEASE=1
 CATEGORY="X11"
 SUMMARY="X.Org cursor themes"
 DESCRIPTION="X.Org cursor themes"
+
+ARCH=noarch
